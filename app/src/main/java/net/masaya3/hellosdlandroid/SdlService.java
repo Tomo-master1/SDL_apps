@@ -1,5 +1,5 @@
 package net.masaya3.hellosdlandroid;
-
+//お試し
 //追加
 import org.opencv.android.Utils;
 import org.opencv.core.Mat;
