@@ -1,0 +1,3 @@
+rootProject.name='HelloSDLAndroid'
+include ':app'
+include ':openCVLibrary320'
